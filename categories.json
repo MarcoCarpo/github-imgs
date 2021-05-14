@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "description": "React rende la creazione di UI interattive facile e indolore. Progetta interfacce per ogni stato della tua applicazione. Ad ogni cambio di stato React aggiornerà efficientemente solamente le parti della UI che dipendono da tali dati. La natura dichiarativa dell’UI rende il tuo codice più prevedibile e facile da debuggare.",
+    "bg_img_url": "https://miro.medium.com/max/3840/1*yjH3SiDaVWtpBX0g_2q68g.png",
+    "color": "#2EF0DD",
+    "show": true,
+    "num_subcat": 3
+  },
+  {
+    "id": 2,
+    "title": "Flutter",
+    "description": "Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Fornisci rapidamente funzionalità concentrandoti sulle esperienze native degli utenti finali. L'architettura a strati consente una personalizzazione completa, che si traduce in rendering incredibilmente veloci e design espressivi e flessibili.",
+    "bg_img_url": "https://www.plansoft.it/wp-content/uploads/2019/10/flutter-1.png",
+    "color": "#257CF5",
+    "show": true,
+    "num_subcat": 3
+  },
+  {
+    "id": 3,
+    "title": "Angular JS",
+    "description": "AngularJS ti consente di estendere il vocabolario HTML per la tua applicazione. L'ambiente risultante è straordinariamente espressivo, leggibile e veloce da sviluppare. HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.",
+    "bg_img_url": "https://www.lullabot.com/sites/default/files/styles/max_800/public/angularjs-juampy_0.png?itok=AUPYwlgX",
+    "color": "#D4231A",
+    "show": false,
+    "num_subcat": 3
+  }
+]

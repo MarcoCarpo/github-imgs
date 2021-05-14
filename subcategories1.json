@@ -1,0 +1,32 @@
+[
+    {
+        "cat_id": 1,
+        "id": 1,
+        "title": "Components and Props",
+        "description": "Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen.",
+        "bg_img_url": "https://cdn-media-1.freecodecamp.org/images/1*3WTslHrSuJfqlj3qZRRFPQ.png",
+        "color": "#61dafb",
+        "show": true,
+        "num_videos": 6
+    },
+    {
+        "cat_id": 1,
+        "id": 2,
+        "title": "ReactDOM",
+        "description": "The react-dom package provides DOM-specific methods that can be used at the top level of your app and as an escape hatch to get outside of the React model if you need to. Most of your components should not need to use this module.",
+        "bg_img_url": "https://i.morioh.com/201023/accc5ecc.webp",
+        "color": "#6738dc",
+        "show": false,
+        "num_videos": 2
+    },
+    {
+        "cat_id": 1,
+        "id": 3,
+        "title": "Hooks",
+        "description": "With Hooks, you can extract stateful logic from a component so it can be tested independently and reused. Hooks allow you to reuse stateful logic without changing your component hierarchy. This makes it easy to share Hooks among many components or with the community.",
+        "bg_img_url": "https://miro.medium.com/max/2880/1*xcDT-neKHP7E3quS9n30gw.png",
+        "color": "#0a4999",
+        "show": true,
+        "num_videos": 4
+    }
+]
