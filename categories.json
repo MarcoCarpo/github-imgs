@@ -5,7 +5,7 @@
     "description": "React rende la creazione di UI interattive facile e indolore. Progetta interfacce per ogni stato della tua applicazione. Ad ogni cambio di stato React aggiornerà efficientemente solamente le parti della UI che dipendono da tali dati. La natura dichiarativa dell’UI rende il tuo codice più prevedibile e facile da debuggare.",
     "bg_img_url": "https://miro.medium.com/max/3840/1*yjH3SiDaVWtpBX0g_2q68g.png",
     "color": "#2EF0DD",
-    "show": true,
+    "show": false,
     "num_subcat": 3
   },
   {
