@@ -24,7 +24,7 @@
         "id": 3,
         "title": "Hooks",
         "description": "With Hooks, you can extract stateful logic from a component so it can be tested independently and reused. Hooks allow you to reuse stateful logic without changing your component hierarchy. This makes it easy to share Hooks among many components or with the community.",
-        "bg_img_url": "https://miro.medium.com/max/2880/1*xcDT-neKHP7E3quS9n30gw.png",
+        "bg_img_url": "",
         "color": "#0a4999",
         "show": true,
         "num_videos": 4
